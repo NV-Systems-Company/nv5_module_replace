@@ -1,0 +1,20 @@
+/**
+ * @Project NUKEVIET 4.x
+ * @Author hongoctrien (hongoctrien@2mit.org)
+ * @Copyright (C) 2015 hongoctrien. All rights reserved
+ * @License GNU/GPL version 2 or any later version
+ * @Createdate Tue, 20 Oct 2015 03:55:17 GMT
+ */
+.ajax-load-qa {
+    background: url("../images/autoget-news/loading.gif") no-repeat center center rgba(255, 255, 255, 0.5);
+    position: fixed;
+    z-index: 99999999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none
+}
+#date_from, #date_to {
+    display: inline-block;
+}
